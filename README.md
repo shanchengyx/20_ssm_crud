@@ -1,4 +1,6 @@
 # 20_ssm_crud
+数据库文件在sql里
+
 使用ssm实现的增删改查  
 所用技术：MySql + spring + spring MVC + MyBatis + html + bootStrap +jquery  
 开发工具： IDEA、Navicat  
